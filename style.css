@@ -1,0 +1,48 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+}
+
+.imagem {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.bo{
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    display: inline-block ;
+    margin: 50px;
+}
+.ll{
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    display: inline-block ;
+    margin: 50px;
+}
+.bb{
+  
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    display: inline-block ;
+    margin: 50px;
+    
+
+}
+.PP{
+ font-size: 20px;
+}
+
+#batata{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
